@@ -600,6 +600,14 @@ button {
     background-size: 100% 100%;
     padding: 100px 0px;
 }
+.vision_section {
+    width: 100%;
+    float: left;
+    background-image: url(../images/about-bg-br.png);
+    height: auto;
+    background-size: 100% 100%;
+    padding: 100px 0px;
+}
 
 .about_taital {
     width: 100%;
